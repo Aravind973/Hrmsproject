@@ -1,2 +1,0 @@
-# Hrmsproject
-Atlas capstone project
