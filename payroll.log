@@ -1,10 +1,10 @@
 Payroll job started. Check payroll.log for details.
-Payroll not generated for 2026-01. Generating now...
+Payroll not generated for 2026-02. Generating now...
 ❌ Error fetching employees: Table 'hrms_project.employees' doesn't exist
 ❌ No employees found!
-Payroll generation completed for 2026-01.
-========== Payroll Job Started: 2026-01-01 ==========
-Payroll not generated for 2026-01. Generating now...
-Payroll generation completed for 2026-01.
+Payroll generation completed for 2026-02.
+========== Payroll Job Started: 2026-02-01 ==========
+Payroll not generated for 2026-02. Generating now...
+Payroll generation completed for 2026-02.
 ========== Payroll Job Ended ==========
 
